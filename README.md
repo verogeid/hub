@@ -9,9 +9,9 @@ Aquí encontrarás mis proyectos clave orientados a la automatización, accesibi
   
 | Proyecto              | Descripción                                       | Enlace                                           | Estado       |  
 |-----------------------|-------------------------------------------------|-------------------------------------------------|--------------|  
-| **qa-autodidacta**    | Curso autodidacta de automatización de QA, con contenido teórico y práctico.     | Privado  | Publicado    |
-| **live-translatalk**  | Sistema de traducción voz a voz en tiempo real para videoconferencias multilingües. | [Repositorio](https://github.com/verogeid/live-translatalk) | En progreso  |    
-| **test-automation-lab** | Repositorio para pruebas automatizadas con enfoque en accesibilidad.             | [Repositorio](https://github.com/verogeid/test-automation-lab) | Publicado    |  
+| **qa-autodidacta-preview**    | Cursos autodidactas pedagógicos de QA y desarrollo, pensados para no iniciados en IT.     | [Repositorio](https://github.com/verogeid/qa-autodidacta-preview)  | Publicado    |
+| **live-translatalk**  | Sistema de traducción voz a voz en tiempo real para videoconferencias multilingües. | [Repositorio](https://github.com/verogeid/live-translatalk) | En progreso |    
+| **test-automation-lab** | Repositorio para pruebas automatizadas con enfoque en accesibilidad.             | [Repositorio](https://github.com/verogeid/test-automation-lab) | En progreso |  
   
 ---  
   
