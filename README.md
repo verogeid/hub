@@ -11,7 +11,7 @@ Aquí encontrarás mis proyectos clave orientados a la automatización, accesibi
 |-----------------------|-------------------------------------------------|-------------------------------------------------|--------------|  
 | **VortexSpira® e-learning mentor** | Plataforma de e-learning accesible | [🌪️](https://github.com/verogeid/vortexspira) |
 | **qa-autodidacta-preview**    | Cursos autodidactas pedagógicos de QA y desarrollo, pensados para no iniciados en IT.     | [Repositorio](https://github.com/verogeid/qa-autodidacta-preview)  | En construcción |
-| **live-translatalk**  | Sistema de traducción voz a voz en tiempo real para videoconferencias multilingües. | [Repositorio](https://github.com/verogeid/live-translatalk) | En progreso |    
+| **live-translatalk**  | Sistema de traducción voz a voz en tiempo real para videoconferencias multilingües. | [🦻](https://github.com/verogeid/live-translatalk) | En progreso |    
 | **test-automation-lab** | Repositorio para pruebas automatizadas con enfoque en accesibilidad.             | [Repositorio](https://github.com/verogeid/test-automation-lab) | En progreso |  
   
 ---  
