@@ -13,7 +13,7 @@ Aquí no solo encontrarás código; encontrarás la implementación de una menta
 | **VortexSpira® EdTech** | Expositor de cursos autodidactas pedagógicos de QA y desarrollo, pensados para no iniciados en IT. | [🌪️](https://verogeid.github.io/vortexspira-universe) | 🚧 |
 | **live-translatalk** | Sistema de traducción voz a voz en tiempo real para videoconferencias multilingües. | [🦻](https://github.com/verogeid/live-translatalk) | ⏸️ |
 | **test-automation-lab** | Repositorio para pruebas automatizadas (E2E) con enfoque en accesibilidad cognitiva y visual real. | [👁️‍🗨️](https://github.com/verogeid/test-automation-lab) | ⏸️ |
-| **Protocolo UTF-bot** | Eficiencia semántica y comunicación AI-Nativa (Conceptualización). | [🤖](#) | 💡 |
+| **Protocolo UTF-bot** | Eficiencia semántica y comunicación AI-Nativa (Conceptualización). | [🤖](https://github.com/verogeid/UTF-BOT) | 💡 |
 
 ---
 
