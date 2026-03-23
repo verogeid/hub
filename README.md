@@ -1,34 +1,35 @@
-# 🛠️ @verogeid Hub - QA Holistic Repos
+# 🛠️ @verogeid Hub - Resilience & Quality Architecture
 
 Bienvenido al hub centralizador de repositorios públicos de Diego González Fernández.
-Aquí no solo encontrarás código; encontrarás la implementación de una mentalidad orientada a la **resiliencia de sistemas complejos**, la **accesibilidad cognitiva**, la **ciberseguridad** y la **automatización**.
+Aquí no solo encontrarás código; encontrarás la implementación de una mentalidad orientada a la **resiliencia de sistemas complejos**, la **ciberseguridad estructural** y la **inclusión radical**.
 
 ---
 
-## 🚀 Repositorios Destacados
+## 🚀 Ecosistema de Proyectos
 
 | Proyecto | Descripción | @ | # |
 | :--- | :--- | :--- | :--- |
-| **VortexSpira® Dev Diary** | Plataforma de e-learning accesible con arquitectura de seguridad "Inexpugnable" y enfoque en neurodivergencia. | [📖](https://github.com/verogeid/vortexspira-devdiary) | ✔️ |
-| **VortexSpira® EdTech** | Expositor de cursos autodidactas pedagógicos de QA y desarrollo, pensados para no iniciados en IT. | [🌪️](https://verogeid.github.io/vortexspira-universe) | 🚧 |
-| **live-translatalk** | Sistema de traducción voz a voz en tiempo real para videoconferencias multilingües. | [🦻](https://github.com/verogeid/live-translatalk) | ⏸️ |
-| **test-automation-lab** | Repositorio para pruebas automatizadas (E2E) con enfoque en accesibilidad cognitiva y visual real. | [👁️‍🗨️](https://github.com/verogeid/test-automation-lab) | ⏸️ |
-| **Protocolo UTF-bot** | Eficiencia semántica y comunicación AI-Nativa (Conceptualización). | [🤖](https://github.com/verogeid/UTF-BOT) | 💡 |
+| **VortexSpira® EdTech** | Plataforma pedagógica de QA y desarrollo para perfiles no iniciados en IT. | [🌪️](https://verogeid.github.io/vortexspira-universe) | 🚧 |
+| **VortexSpira® Dev Diary** | Bitácora de arquitectura sobre e-learning inexpugnable, accesibilidad AAA y neurodivergencia. | [📖](https://github.com/verogeid/vortexspira-devdiary) | ✔️ |
+| **Vortex Resilience & Security Suite** | Suite de auditoría forense (Vanilla JS). Detección de patrones polimórficos y métricas de degradación de información. | [🛡️](https://github.com/verogeid/Vortex-Resilience-Security-Suite)
+| **Protocolo UTF-bot** | Manifiesto y arquitectura para la eficiencia semántica y optimización de contexto en IA. | [🤖](https://github.com/verogeid/UTF-BOT) | 💡 |
+| **test-automation-lab** | Simulación de deficiencias visuales/cognitivas para obtener métricas objetivas de accesibilidad. | [👁️‍🗨️](https://github.com/verogeid/test-automation-lab) | ⏸️ |
+| **live-translatalk** | Sistema de traducción voz a voz en tiempo real para comunicación síncrona accesible. | [🦻](https://github.com/verogeid/live-translatalk) | ⏸️ |
 
 ---
 
-## 🧠 Arquitectura Cognitiva & QA Mindset
+## 🧠 Arquitectura Cognitiva & Resilience Mindset
 
 > *"No es solo lo que sé, es cómo funciona mi hardware."*
 
-Mi perfil cognitivo opera bajo una alta **lógica matemática y abstracción espacial**. Para mí, no hay distinción fundamental entre el hardware, el software o el ser humano; todos son nodos interconectados en sistemas complejos. Entiendo la termodinámica, los flujos de datos y las interacciones humanas como arquitecturas sistémicas análogas entre sí.
+Mi perfil cognitivo opera bajo una alta **lógica matemática y abstracción espacial**. Entiendo el hardware, el software y la interacción humana como nodos de un mismo sistema complejo regido por flujos de datos y termodinámica.
 
-Si eres **reclutador**, **arquitecto** o tienes conocimientos de **psicología**, entenderás el valor de lo que no está escrito en el código:
+Si eres **arquitecto**, **CISO** o responsable de **producto**, entenderás el valor de lo que no está escrito en el código:
 
-* **Pensamiento Isomórfico y No Lineal:** Mi memoria asociativa no procesa listas; mapea relaciones espaciales y lógicas. Conecto conceptos dispares para visualizar la arquitectura del sistema como un todo orgánico, identificando patrones idénticos en dominios aparentemente inconexos.
-* **Hipervigilancia Estratégica:** ¿Y la ansiedad? En mi rol como QA, la canalizo productivamente como una auditoría biológica y continua de riesgos. Estoy condicionado para **mirar donde nadie más mira**, anticipar cuellos de botella y detectar las grietas de seguridad que escapan a la lógica lineal estándar.
+* **Pensamiento Isomórfico y No Lineal:** Mi memoria asociativa mapea relaciones lógicas y espaciales. Conecto conceptos de dominios dispares para visualizar la arquitectura del sistema como un todo orgánico, identificando patrones de fallo antes de que ocurran.
+* **Hipervigilancia Estratégica:** Canalizo la ansiedad como una auditoría biológica continua. Estoy condicionado para **mirar donde nadie más mira**, anticipar vectores de ataque y detectar grietas de seguridad que escapan a la lógica lineal estándar.
 
-No solo busco bugs de forma aislada; **intuyo fragilidades sistémicas.**
+No busco errores aislados; **diseño sistemas que resisten la fragilidad.**
 
 ---
 
@@ -36,8 +37,7 @@ No solo busco bugs de forma aislada; **intuyo fragilidades sistémicas.**
 
 Soy **Ingeniero Técnico en Informática** y **Estratega de Resiliencia Sistémica**.
 
-Aunque el paso natural en la industria es el de **QA Architect** o **Automation Engineer**, mi enfoque y metodología me sitúan como un **QA Holístico (Complex System Thinker)**. 
-No me limito a diseñar la estrategia de pruebas o ejecutar scripts; integro la **arquitectura**, la **ciberseguridad defensiva**, la **eficiencia semántica** y la **psicología del usuario** para asegurar la calidad y resiliencia del ecosistema completo.
+Mi enfoque y metodología me sitúan como un **Arquitecto de Fiabilidad Integral (Complex System Thinker)**. No me limito a validar software; integro la **ciberseguridad defensiva**, la **accesibilidad cognitiva** y la **eficiencia semántica** para asegurar que el ecosistema tecnológico sea robusto, inclusivo y sostenible.
 
 ---
 
