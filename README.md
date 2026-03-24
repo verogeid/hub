@@ -11,7 +11,7 @@ Aquí no solo encontrarás código; encontrarás la implementación de una menta
 | :--- | :--- | :--- | :--- |
 | **VortexSpira® EdTech** | Plataforma pedagógica de QA y desarrollo para perfiles no iniciados en IT. | [🌪️](https://verogeid.github.io/vortexspira-universe) | 🚧 |
 | **VortexSpira® Dev Diary** | Bitácora de arquitectura sobre e-learning inexpugnable, accesibilidad AAA y neurodivergencia. | [📖](https://github.com/verogeid/vortexspira-devdiary) | ✔️ |
-| **Vortex Resilience & Security Suite** | Suite de auditoría forense (Vanilla JS). Detección de patrones polimórficos y métricas de degradación de información. | [🛡️](https://github.com/verogeid/Vortex-Resilience-Security-Suite)
+| **Vortex Resilience & Security Suite** | Suite de auditoría forense (Vanilla JS). Detección de patrones polimórficos. | [🛡️](https://github.com/verogeid/Vortex-Resilience-Security-Suite)
 | **Protocolo UTF-bot** | Manifiesto y arquitectura para la eficiencia semántica y optimización de contexto en IA. | [🤖](https://github.com/verogeid/UTF-BOT) | 💡 |
 | **test-automation-lab** | Simulación de deficiencias visuales/cognitivas para obtener métricas objetivas de accesibilidad. | [👁️‍🗨️](https://github.com/verogeid/test-automation-lab) | ⏸️ |
 | **live-translatalk** | Sistema de traducción voz a voz en tiempo real para comunicación síncrona accesible. | [🦻](https://github.com/verogeid/live-translatalk) | ⏸️ |
