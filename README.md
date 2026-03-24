@@ -26,10 +26,10 @@ Mi perfil cognitivo opera bajo una alta **lógica matemática y abstracción esp
 
 Si eres **arquitecto**, **CISO** o responsable de **producto**, entenderás el valor de lo que no está escrito en el código:
 
-* **Pensamiento Isomórfico y No Lineal:** Mi memoria asociativa mapea relaciones lógicas y espaciales. Conecto conceptos de dominios dispares para visualizar la arquitectura del sistema como un todo orgánico, identificando patrones de fallo antes de que ocurran.
-* **Hipervigilancia Estratégica:** Canalizo la ansiedad como una auditoría biológica continua. Estoy condicionado para **mirar donde nadie más mira**, anticipar vectores de ataque y detectar grietas de seguridad que escapan a la lógica lineal estándar.
+* **Pensamiento Isomórfico y No Lineal**: Mi memoria asociativa mapea relaciones lógicas y espaciales entre dominios aparentemente inconexos. Identifico patrones de fallo visualizando el sistema como un todo orgánico. Un ejemplo de este enfoque es la transposición de modelos de estrés industrial de hace dos décadas para resolver cuellos de botella actuales en la accesibilidad digital que el QA tradicional sigue considerando "irresolubles".
+* **Hipervigilancia Estratégica:** Mi procesamiento de alta frecuencia opera como un proceso de auditoría de fondo ininterrumpido. Estoy condicionado para **mirar donde nadie más mira**, anticipar vectores de ataque y detectar grietas de seguridad que escapan a la lógica lineal estándar.
 
-No busco errores aislados; **diseño sistemas que resisten la fragilidad.**
+No busco errores aislados; **diseño sistemas y auditorías que resisten la fragilidad.**
 
 ---
 
