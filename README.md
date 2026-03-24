@@ -35,7 +35,7 @@ No busco errores aislados; **diseño sistemas que resisten la fragilidad.**
 
 ## 📌 Sobre mí
 
-Soy **Ingeniero Técnico en Informática** y **Estratega de Resiliencia Sistémica**.
+Soy **Ingeniero Técnico en Informática de Gestión por la Universidad de Deusto** y **Estratega de Resiliencia Sistémica**.
 
 Mi enfoque y metodología me sitúan como un **Arquitecto de Fiabilidad Integral (Complex System Thinker)**. No me limito a validar software; integro la **ciberseguridad defensiva**, la **accesibilidad cognitiva** y la **eficiencia semántica** para asegurar que el ecosistema tecnológico sea robusto, inclusivo y sostenible.
 
